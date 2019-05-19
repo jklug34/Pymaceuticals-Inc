@@ -1,5 +1,5 @@
 # Pymaceuticals-Inc
-Graphical analysis of the efficacy of ten different novel pharmaceuticals on treating squamous cell carcinoma, a form of skin cancer
+Graphical analysis of the efficacy of ten different novel pharmaceuticals on treating squamous cell carcinoma, a form of skin cancer, in mice.
 
 
 •	The drug Capomulin showed the greatest reduction in tumor volume over days compared to placebo. These effects were observed after as little as 5 - 10 days and progressively shrank tumor volume over the 45 days tested. In follow up studies it may be interesting to look at longer timepoints (>45 days). 
@@ -7,7 +7,7 @@ Graphical analysis of the efficacy of ten different novel pharmaceuticals on tre
 ![tumor_response_to_treatment](https://user-images.githubusercontent.com/48166327/57977584-80958b80-79b0-11e9-91b4-e95b06fb69b6.png)
 
 
-•	The drug Capomulin significantly reduced the number of metastatic spreads of the cancer observed in reduced numbers of metastatic sites over 45 days compared to placebo. Notably, Infubinol also showed a modest yet significant reduction in metastatic sites.
+•	The drug Capomulin robustly reduced numbers of metastatic sites over 45 days compared to placebo. Notably, Infubinol also showed a modest reduction in metastatic sites.
 
 ![Metastatic Spread During Treatment](https://user-images.githubusercontent.com/48166327/57977599-d1a57f80-79b0-11e9-9c2d-886f9eee118f.png)
 
