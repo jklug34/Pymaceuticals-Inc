@@ -1,7 +1,6 @@
 # Pymaceuticals-Inc
 Graphical analysis of the efficacy of ten different novel pharmaceuticals on treating squamous cell carcinoma, a form of skin cancer
 
-Three observable conclusions from the data:
 
 •	The drug Capomulin showed the greatest reduction in tumor volume over days compared to placebo. These effects were observed after as little as 5 - 10 days and progressively shrank tumor volume over the 45 days tested. In follow up studies it may be interesting to look at longer timepoints (>45 days). 
 
