@@ -19,3 +19,5 @@ Three observable conclusions from the data:
 In summary, mice treated with Capomulin had smaller tumors, less spread of the cancer, and lived longer than placebo controls.  Capomulin looks promising as a potential anti-cancer drug to treat squamous cell carcinoma and additional follow up is recommended. 
    
  Note: Ramicane may be an additional candidate for further testing with a similar anti-cancer profile to Capomulin.
+ 
+ ![Tumor Volume Change over 45 Day Treatment](https://user-images.githubusercontent.com/48166327/57977628-2fd26280-79b1-11e9-9e3c-b29e12fca124.png)
