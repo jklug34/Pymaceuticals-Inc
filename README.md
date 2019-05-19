@@ -5,6 +5,9 @@ Three observable conclusions from the data:
 
 •	The drug Capomulin showed the greatest reduction in tumor volume over days compared to placebo. These effects were observed after as little as 5 - 10 days and progressively shrank tumor volume over the 45 days tested. In follow up studies it may be interesting to look at longer timepoints (>45 days). 
 
+![tumor_response_to_treatment](https://user-images.githubusercontent.com/48166327/57977584-80958b80-79b0-11e9-91b4-e95b06fb69b6.png)
+
+
 •	The drug Capomulin significantly reduced the number of metastatic spreads of the cancer observed in reduced numbers of metastatic sites over 45 days compared to placebo. Notably, Infubinol also showed a modest yet significant reduction in metastatic sites.
 
 •	Mice given Capomulin survived notably longer than those given placebo.
