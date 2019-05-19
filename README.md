@@ -1,5 +1,5 @@
 # Pymaceuticals-Inc
-Analysis and graphical visualizations of the results of testing ten different novel pharmaceuticals on the efficacy in treating squamous cell carcinoma, a form of skin cancer
+Graphical analysis of the efficacy of ten different novel pharmaceuticals on treating squamous cell carcinoma, a form of skin cancer
 
 Three observable conclusions from the data:
 
