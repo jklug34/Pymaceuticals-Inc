@@ -10,6 +10,8 @@ Three observable conclusions from the data:
 
 •	The drug Capomulin significantly reduced the number of metastatic spreads of the cancer observed in reduced numbers of metastatic sites over 45 days compared to placebo. Notably, Infubinol also showed a modest yet significant reduction in metastatic sites.
 
+![Metastatic Spread During Treatment](https://user-images.githubusercontent.com/48166327/57977599-d1a57f80-79b0-11e9-9c2d-886f9eee118f.png)
+
 •	Mice given Capomulin survived notably longer than those given placebo.
 
 In summary, mice treated with Capomulin had smaller tumors, less spread of the cancer, and lived longer than placebo controls.  Capomulin looks promising as a potential anti-cancer drug to treat squamous cell carcinoma and additional follow up is recommended. 
