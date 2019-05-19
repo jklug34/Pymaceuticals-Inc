@@ -14,6 +14,8 @@ Three observable conclusions from the data:
 
 •	Mice given Capomulin survived notably longer than those given placebo.
 
+![Survival During Treatment](https://user-images.githubusercontent.com/48166327/57977609-01ed1e00-79b1-11e9-8eef-3f578eea6acd.png)
+
 In summary, mice treated with Capomulin had smaller tumors, less spread of the cancer, and lived longer than placebo controls.  Capomulin looks promising as a potential anti-cancer drug to treat squamous cell carcinoma and additional follow up is recommended. 
    
  Note: Ramicane may be an additional candidate for further testing with a similar anti-cancer profile to Capomulin.
